@@ -1,0 +1,92 @@
+
+
+====S Sobol output====
+
+
+Parameter S1 S1_conf ST ST_conf
+R0 0.741303 0.007034 0.828207 0.006611
+gamma 0.001524 0.000653 0.005645 0.000142
+delta 0.001136 0.000539 0.003795 0.000118
+FM compliance 0.034346 0.002158 0.060421 0.000885
+ß(social distancing) 0.134373 0.003836 0.209307 0.002509
+
+Parameter_1 Parameter_2 S2 S2_conf
+R0 gamma 0.000659 0.006155
+R0 delta 0.000136 0.006292
+R0 FM compliance 0.010789 0.006200
+R0 ß(social distancing) 0.057446 0.006584
+gamma delta 0.000152 0.000846
+gamma FM compliance 0.000103 0.000854
+gamma ß(social distancing) 0.000160 0.000918
+delta FM compliance -0.000096 0.000774
+delta ß(social distancing) -0.000065 0.000784
+FM compliance ß(social distancing) -0.000018 0.003331
+
+
+====E Sobol output====
+
+
+Parameter S1 S1_conf ST ST_conf
+R0 0.055165 0.006938 0.751004 0.021662
+gamma 0.024436 0.004652 0.237018 0.010625
+delta 0.198646 0.013297 0.687685 0.021986
+FM compliance -0.003124 0.004840 0.271990 0.009336
+ß(social distancing) 0.000533 0.006183 0.544675 0.018504
+
+Parameter_1 Parameter_2 S2 S2_conf
+R0 gamma 0.010569 0.009326
+R0 delta 0.084912 0.019448
+R0 FM compliance 0.010591 0.008935
+R0 ß(social distancing) 0.093544 0.010325
+gamma delta 0.012455 0.011945
+gamma FM compliance 0.000610 0.006451
+gamma ß(social distancing) 0.002091 0.006732
+delta FM compliance -0.002397 0.020606
+delta ß(social distancing) -0.012634 0.019401
+FM compliance ß(social distancing) 0.005523 0.006484
+
+
+====I Sobol output====
+
+
+Parameter S1 S1_conf ST ST_conf
+R0 0.080841 0.008406 0.784198 0.017883
+gamma 0.158048 0.008926 0.573901 0.012803
+delta 0.035627 0.005186 0.214923 0.006799
+FM compliance 0.000929 0.004730 0.283274 0.007933
+ß(social distancing) 0.001561 0.006783 0.566965 0.010883
+
+Parameter_1 Parameter_2 S2 S2_conf
+R0 gamma 0.076515 0.015542
+R0 delta 0.018517 0.011045
+R0 FM compliance 0.019467 0.010247
+R0 ß(social distancing) 0.142459 0.012484
+gamma delta 0.014264 0.015838
+gamma FM compliance 0.004766 0.014570
+gamma ß(social distancing) 0.003724 0.014191
+delta FM compliance 0.001062 0.007666
+delta ß(social distancing) -0.000994 0.007514
+FM compliance ß(social distancing) 0.004430 0.006585
+
+
+====R Sobol output====
+
+
+Parameter S1 S1_conf ST ST_conf
+R0 0.736706 0.006203 0.825892 0.005628
+gamma 0.002321 0.000845 0.007714 0.000187
+delta 0.001596 0.000658 0.005208 0.000137
+FM compliance 0.034528 0.002261 0.061070 0.001066
+ß(social distancing) 0.135199 0.003532 0.211707 0.002641
+
+Parameter_1 Parameter_2 S2 S2_conf
+R0 gamma 0.000800 0.006432
+R0 delta 0.000271 0.006316
+R0 FM compliance 0.010791 0.006485
+R0 ß(social distancing) 0.057893 0.006395
+gamma delta 0.000103 0.001238
+gamma FM compliance 0.000003 0.001211
+gamma ß(social distancing) 0.000082 0.001231
+delta FM compliance -0.000076 0.000847
+delta ß(social distancing) -0.000056 0.000856
+FM compliance ß(social distancing) -0.000032 0.003074
